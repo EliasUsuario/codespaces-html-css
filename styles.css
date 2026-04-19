@@ -1,0 +1,17 @@
+/* Archivo de ejemplo — opcional, puedes borrarlo */
+
+body {
+  font-family: sans-serif;
+    display: flex;
+      flex-direction: column;
+        align-items: center;
+          justify-content: center;
+            height: 100vh;
+              margin: 0;
+                background-color: #f0f4f8;
+                  color: #333;
+                  }
+
+                  h1 {
+                    font-size: 2rem;
+                    }
